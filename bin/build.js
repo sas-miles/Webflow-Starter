@@ -26,6 +26,7 @@ const context = await esbuild.context({
   define: {
     SERVE_ORIGIN: JSON.stringify(SERVE_ORIGIN),
   },
+  loader: { '.ts': 'ts' }, // Add this line to handle TypeScript files
 });
 
 // Build files in prod
