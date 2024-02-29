@@ -1,7 +1,7 @@
 {
     "name": "@milesroxas/webflow-starter",
     "version": "0.0.0",
-    "description": "Developer starter template for Webflow projects",
+    "description": "Developer starter template for Webflow projects based on Finsweet Dev Starter",
     "homepage": "https://www.milesroxas.com",
     "license": "ISC",
     "keywords": [],
